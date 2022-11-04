@@ -238,6 +238,11 @@ main {
   color: #ffffff;
 }
 
+.contact-me a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
 p {
   color: hsla(0, 0%, 100%, 0.75);
 }
